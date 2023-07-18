@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1676351980 source:c:\users\28044\desktop\kechengsheji\edge.cpp
+	"Edge.h"
+
+1676351980 c:\users\28044\desktop\kechengsheji\edge.h
+	<iostream>
+
+1678016819 source:c:\users\28044\desktop\kechengsheji\main.cpp
+	<iostream>
+	<string>
+	<strstream>
+	<fstream>
+	"Map.h"
+
+1676863903 c:\users\28044\desktop\kechengsheji\map.h
+	<vector>
+	"Node.h"
+	"Edge.h"
+
+1676351200 c:\users\28044\desktop\kechengsheji\node.h
+	<iostream>
+	<sstream>
+	<string>
+
+1678109715 source:c:\users\28044\desktop\kechengsheji\map.cpp
+	<iostream>
+	<vector>
+	<memory.h>
+	"Map.h"
+
+1676351200 source:c:\users\28044\desktop\kechengsheji\node.cpp
+	"Node.h"
+	<iostream>
+
